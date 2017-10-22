@@ -1,5 +1,8 @@
-package com.megtom1.exercises.interfaces;
+package com.megtom1.exercises.java8.interfaces;
 
+import com.megtom1.exercises.interfaces.Interface1;
+import com.megtom1.exercises.interfaces.Interface1And2Impl;
+import com.megtom1.exercises.interfaces.Interface2;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

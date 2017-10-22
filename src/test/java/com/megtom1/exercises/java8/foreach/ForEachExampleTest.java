@@ -1,4 +1,4 @@
-package com.megtom1.exercises.java8;
+package com.megtom1.exercises.java8.foreach;
 
 import com.google.common.collect.Lists;
 import org.apache.commons.lang3.RandomStringUtils;
@@ -12,7 +12,7 @@ import java.util.concurrent.atomic.AtomicLong;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 @DisplayName("Test for new java8 foreach construction")
-class ForEachExample {
+class ForEachExampleTest {
 
     @Test
     @DisplayName("Print whole string list")
